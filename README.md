@@ -7,7 +7,7 @@ should be placed in. Once you run it, an "output.txt" will be generated with all
 
 Have fun!
 
-PD: if you want to see same feedback run it writting something like "java -jar "LOC.jar"", if not
+PD: if you want to see same feedback, run it writting something like "java -jar "LOC.jar"", if not
 just double-click that jar file
 
 <img src="screenshot.jpg"/>
