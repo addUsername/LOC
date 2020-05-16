@@ -1,5 +1,5 @@
 # LOC
-Simpliest jar ever made, it just count how many lines of your project are actual lines of code.
+Simpliest jar ever made, it just count how many lines of your project (java project) are actual lines of code.
 It also distinguish between comment lines, close lines '}' and blank lines.
 
 to run it, put the LOC.jar file among a folder called "new", in which, the .java files to check
